@@ -141,3 +141,15 @@ This script uses `icer.config` for cluster-specific settings on the MSU HPCC.
 - Visual outputs (e.g., `.png` files) are stored in `results/ampliconsuite/ampliconarchitect/sv_view`.
 
 ## Example Output
+
+## Citation
+
+If you use this code, please cite:
+
+- [nf-core/circdna pipeline](https://nf-co.re/circdna/1.1.0/#citations)
+- [AmpliconSuite-pipeline](https://github.com/AmpliconSuite/AmpliconSuite-pipeline/blob/master/CITATIONS.md)
+- [CNVKit](https://doi.org/10.1371/journal.pcbi.1004873)
+
+## License
+
+MIT License – see the [LICENSE](./LICENSE) file for details.
